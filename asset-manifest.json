@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-train-module-2-forms/static/css/main.7acaea2f.css",
-    "main.js": "/react-train-module-2-forms/static/js/main.07d3183d.js",
+    "main.js": "/react-train-module-2-forms/static/js/main.383138a0.js",
     "index.html": "/react-train-module-2-forms/index.html",
     "main.7acaea2f.css.map": "/react-train-module-2-forms/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-train-module-2-forms/static/js/main.07d3183d.js.map"
+    "main.383138a0.js.map": "/react-train-module-2-forms/static/js/main.383138a0.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.383138a0.js"
   ]
 }
